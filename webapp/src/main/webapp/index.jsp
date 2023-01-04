@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>New user Register for DevOps Learning ncncdg</h1>
     <p>Please fill in this form to create an account. niconico2</p>
     <hr>
      
@@ -35,4 +35,4 @@
 
   
 </form>
-<img src="https://www.jenkins.io/images/logos/JCasC/JCasC.png" alt="Flowers in Chania">
+<img src="https://www.themoviedb.org/t/p/original/dJIt5EUmbhYoNjEVMEwsHyG1I1w.jpg" alt="Flowers in Chania">
